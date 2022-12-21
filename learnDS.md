@@ -69,3 +69,9 @@
 ## Рекомендательные системы
 ### Статьи
 * [Избранные статьи о рекомендательных системах с конференции KDD 2022](https://habr.com/ru/company/odnoklassniki/blog/705520/)
+## Нейронные сети
+### Статьи
+* [#1 Нейронные сети для начинающих. Решение задачи классификации Ирисов Фишера](https://habr.com/ru/company/ruvds/blog/679988/)
+* [#2 Нейронные сети для начинающих. NumPy. MatplotLib. Операции с изображениями в OpenCV](https://habr.com/ru/company/ruvds/blog/682462/)
+* [#3 Нейронные сети для начинающих. Работа с изображениями в OpenCV. Алгоритм Canny Edge Detector](https://habr.com/ru/company/ruvds/blog/694994/)
+* [#4 Нейронные сети для начинающих. Sudoku Solver. Судоку. Часть 1](https://habr.com/ru/company/ruvds/blog/706164/)
