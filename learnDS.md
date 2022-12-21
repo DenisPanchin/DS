@@ -64,3 +64,8 @@
 4. [Stack Overflow blog](https://stackoverflow.blog/?s=test&ref=vc.ru)
 5. [Research at Yandex](https://research.yandex.com/?ref=vc.ru)
 6. [Data / ML blog Uber](https://www.uber.com/blog/engineering/data/?ref=vc.ru)
+
+# Тематические подборки
+## Рекомендательные системы
+### Статьи
+* [Избранные статьи о рекомендательных системах с конференции KDD 2022](https://habr.com/ru/company/odnoklassniki/blog/705520/)
