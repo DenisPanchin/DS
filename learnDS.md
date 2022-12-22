@@ -37,6 +37,7 @@
 3. [Strata scratch](https://platform.stratascratch.com/coding?code_type=1)
 4. [SQLBolt](https://sqlbolt.com/)
 5. [W3schools](https://www.w3schools.com/sql/sql_exercises.asp)
+6. [leetcode.com](https://leetcode.com)
 
 ## Статистика
 1. [Введение в статистику (Stanford University)](https://online.stanford.edu/courses/xfds110-introduction-statistics)
@@ -92,4 +93,6 @@
 * [#3 Нейронные сети для начинающих. Работа с изображениями в OpenCV. Алгоритм Canny Edge Detector](https://habr.com/ru/company/ruvds/blog/694994/)
 * [#4 Нейронные сети для начинающих. Sudoku Solver. Судоку. Часть 1](https://habr.com/ru/company/ruvds/blog/706164/)
 
+# Подготовка к собеседованию
+* [mlstack.cafe](https://www.mlstack.cafe/)
 
