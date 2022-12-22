@@ -76,6 +76,9 @@
 6. [Data / ML blog Uber](https://www.uber.com/blog/engineering/data/?ref=vc.ru)
 
 # Тематические подборки
+## NLP
+### Статьи
+* [TAPE: первый бенчмарк для few-shot оценки языковых моделей на русском языке](https://habr.com/ru/company/sberdevices/blog/706846/)
 ## Рекомендательные системы
 ### Статьи
 * [Избранные статьи о рекомендательных системах с конференции KDD 2022](https://habr.com/ru/company/odnoklassniki/blog/705520/)
