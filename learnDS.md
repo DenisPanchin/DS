@@ -32,10 +32,11 @@
 11. [Visualizing Data with Python (IBM)](https://www.edx.org/course/visualizing-data-with-python)
 
 ## Тренажеры SQL и Python
-1. [Hakerrank](https://www.hackerrank.com/dashboard)
-2. [Strata scratch](https://platform.stratascratch.com/coding?code_type=1)
-3. [SQLBolt](https://sqlbolt.com/)
-4. [W3schools](https://www.w3schools.com/sql/sql_exercises.asp)
+1. [sql-ex.ru](https://www.sql-ex.ru/) (сертификация)
+2. [Hakerrank](https://www.hackerrank.com/dashboard) (сертификация)
+3. [Strata scratch](https://platform.stratascratch.com/coding?code_type=1)
+4. [SQLBolt](https://sqlbolt.com/)
+5. [W3schools](https://www.w3schools.com/sql/sql_exercises.asp)
 
 ## Статистика
 1. [Введение в статистику (Stanford University)](https://online.stanford.edu/courses/xfds110-introduction-statistics)
@@ -57,6 +58,14 @@
 2. [A/B Testing & Optimization Course (XP2)](https://www.dynamicyield.com/lesson/introduction-to-ab-testing/)
 3. [Advanced Experimentation Course (XP2)](https://www.dynamicyield.com/course/advanced-experimentation/?ref=vc.ru)
 
+# Книги
+1. «Роман с Data Science. Как монетизировать большие данные», Роман Зыков
+2. The Signal and the Noise: Why So Many Predictions Fail, Nate Silver
+
+# Подкасты
+1. [Machine Learning Podcast на Яндекс.Музыка](https://music.yandex.ru/album/9781458?dir=desc&activeTab=about)
+2. [SuperDataScience](https://www.superdatascience.com/podcast) (en) 
+
 # Блоги по аналитике
 1. [Booking.Datascience](https://booking.ai/)
 2. [B.log](https://blog.booking.com/?ref=vc.ru)
@@ -69,9 +78,18 @@
 ## Рекомендательные системы
 ### Статьи
 * [Избранные статьи о рекомендательных системах с конференции KDD 2022](https://habr.com/ru/company/odnoklassniki/blog/705520/)
-## Нейронные сети
+
+## Deep Learning
+### Курсы
+1. [Курс Deep Learning For Computer Vision EECS 498.008 / 598.008](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
+
+### Книги
+1. Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville [бесплатная электронная версия](https://www.deeplearningbook.org/)
+
 ### Статьи
 * [#1 Нейронные сети для начинающих. Решение задачи классификации Ирисов Фишера](https://habr.com/ru/company/ruvds/blog/679988/)
 * [#2 Нейронные сети для начинающих. NumPy. MatplotLib. Операции с изображениями в OpenCV](https://habr.com/ru/company/ruvds/blog/682462/)
 * [#3 Нейронные сети для начинающих. Работа с изображениями в OpenCV. Алгоритм Canny Edge Detector](https://habr.com/ru/company/ruvds/blog/694994/)
 * [#4 Нейронные сети для начинающих. Sudoku Solver. Судоку. Часть 1](https://habr.com/ru/company/ruvds/blog/706164/)
+
+
