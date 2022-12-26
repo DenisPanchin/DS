@@ -96,6 +96,11 @@
 * [#3 Нейронные сети для начинающих. Работа с изображениями в OpenCV. Алгоритм Canny Edge Detector](https://habr.com/ru/company/ruvds/blog/694994/)
 * [#4 Нейронные сети для начинающих. Sudoku Solver. Судоку. Часть 1](https://habr.com/ru/company/ruvds/blog/706164/)
 
+## CV
+### Статьи
+* [Третья жизнь пет-проекта по распознаванию рукописных цифр](https://habr.com/ru/company/ods/blog/707046/)
+* [Шесть шагов для создания более качественных моделей Computer Vision](https://habr.com/ru/post/705008/)
+
 # Подготовка к собеседованию
 * [mlstack.cafe](https://www.mlstack.cafe/)
 
