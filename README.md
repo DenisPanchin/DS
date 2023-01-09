@@ -11,6 +11,7 @@
 
 ## Математика
 [Курсы по математике](https://github.com/DenisPanchin/DS/blob/main/MathCourse.md)
+
 Курсы и специализации на Coursera.org
 
 ## Подготовка к собеседованию
