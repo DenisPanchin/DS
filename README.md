@@ -15,6 +15,9 @@
 ## Бизнес-аналитика
 [**Курсы по бизнес-аналитике**](https://github.com/DenisPanchin/DS/blob/main/BisCourse.md)
 
+## Рекомендательные системы
+[**Курсы по рекомендательным системам**](https://github.com/DenisPanchin/DS/blob/main/Recom.md)
+
 Курсы и специализации на Coursera.org
 
 ## Подготовка к собеседованию
