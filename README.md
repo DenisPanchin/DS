@@ -13,7 +13,7 @@
 [**Курсы по математике**](https://github.com/DenisPanchin/DS/blob/main/MathCourse.md)
 
 ## Бизнес-аналитика
-[**Курсы по бизнес-аналитике**]()
+[**Курсы по бизнес-аналитике**](https://github.com/DenisPanchin/DS/blob/main/BisCourse.md)
 
 Курсы и специализации на Coursera.org
 
