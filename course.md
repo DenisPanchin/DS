@@ -8,3 +8,5 @@
 * [Репозиторий специализации: Машинное обучение и анализ данных (МФТИ, Yandex Data Factory) (RU)](https://github.com/demidovakatya/mashinnoye-obucheniye)
 ## Udacity.com
 * [AWS Machine Learning Engineer (EN)](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
+* [Become a Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+* [Expand Your Knowledge of Artificial Intelligence](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
