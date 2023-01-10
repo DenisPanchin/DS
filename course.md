@@ -10,3 +10,4 @@
 * [AWS Machine Learning Engineer (EN)](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
 * [Become a Data Analyst (EN)](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 * [Expand Your Knowledge of Artificial Intelligence (EN)](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
+* [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271#)
