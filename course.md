@@ -4,6 +4,7 @@
 * [Coursera.org (Raiting 4.6): Machine Learning Foundations: A Case Study Approach (University of Washington, Emily Fox) (EN)](https://www.coursera.org/learn/ml-foundations)
 * [Coursera.org (Raiting 4.5): Специализация Интеллектуальный анализ данных (Illinois, John C.Hart) (EN)](https://www.coursera.org/specializations/data-mining#courses)
 * [Coursera.org (Raiting 4.2): Специализация Наука о больших данных (University of Washington, Bill Howe) (EN)](https://www.coursera.org/specializations/data-science)
+* [Coursera.org (Raiting 4.9): Специализация Машинное обучение (Stanford, Andrew Ng) (EN)](https://www.coursera.org/specializations/machine-learning-introduction)
 * [Coursera.org (Raiting 4.7): Специализация Машинное обучение (EN)](https://www.coursera.org/specializations/machine-learning)
 * [Репозиторий специализации: Машинное обучение и анализ данных (МФТИ, Yandex Data Factory) (RU)](https://github.com/demidovakatya/mashinnoye-obucheniye)
 ## Udacity.com
