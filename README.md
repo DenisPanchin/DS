@@ -4,6 +4,7 @@
 
 ## DS
 [**Курсы по ML и DS**](https://github.com/DenisPanchin/DS/blob/main/course.md)
+[**Репозиторий с бесплатными книгами по Data Science**](https://github.com/LearnDataSci/free-data-science-learning/blob/master/free-data-science-books.md)
 
 Курсы и специализации на Coursera.org, репозитории и видеолекции.
 
