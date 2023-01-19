@@ -119,3 +119,4 @@ control_user_ids, pilot_user_ids = np.random.choice(
 1. [Habr.com: Стратификация. Как разбиение выборки повышает чувствительность A/B теста](https://habr.com/ru/company/X5Tech/blog/596279/)
 2. [Habr.com: Бутстреп и А/Б тестирование](https://habr.com/ru/company/X5Tech/blog/679842/)
 3. [Habr.com: Проверка корректности А/Б тестов](https://habr.com/ru/company/X5Tech/blog/706388/)
+4. [Habr.com: Критерий Манна-Уитни — самый главный враг A/B-тестов](https://habr.com/ru/company/avito/blog/709596/)
