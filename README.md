@@ -14,7 +14,7 @@
 ## Математика
 [**Курсы по математике**](https://github.com/DenisPanchin/DS/blob/main/MathCourse.md)
 ### Теория вероятности
-[**Статьи по теории вероятности**]()
+[**Статьи по теории вероятности**](https://github.com/DenisPanchin/DS/blob/main/TeorVerNote.md)
 
 ## Бизнес-аналитика
 [**Курсы по бизнес-аналитике**](https://github.com/DenisPanchin/DS/blob/main/BisCourse.md)
