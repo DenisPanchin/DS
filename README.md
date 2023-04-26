@@ -1,4 +1,10 @@
-# О репозитории:
+# Roadmap Data Science
+* [Roadmap Data Science CIS Team](https://github.com/CIS-Team/Data-Science-Roadmap-2023)
+* [Roadmap Data Science Emeric DYNOMANT](https://github.com/MrMimic/data-scientist-roadmap)
+* [6 Months Data Science Roadmap in 2023](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-)
+* [God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack)
+
+![дорожная карта-изображение](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png )
 
 ## Содержание:
 
