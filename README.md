@@ -8,6 +8,7 @@
 
 ## Mathematics / Математика
 ## Algorithms / Алгоритмы
+[Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
 
 ## DS
 [**Курсы по ML и DS**](https://github.com/DenisPanchin/DS/blob/main/course.md)
