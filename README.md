@@ -7,7 +7,7 @@
 ![дорожная карта-изображение](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png )
 
 ## Mathematics / Математика
-## Algorithms / Алгоритмы
+## &#9000; Algorithms / Алгоритмы
 [Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
 
 ## DS
@@ -20,9 +20,9 @@
 
 
 ## Математика
-[**Курсы по математике**](https://github.com/DenisPanchin/DS/blob/main/MathCourse.md)
+[&#127922;  **Курсы по математике**](https://github.com/DenisPanchin/DS/blob/main/MathCourse.md)
 ### Теория вероятности
-[&#127922; **Статьи по теории вероятности**](https://github.com/DenisPanchin/DS/blob/main/TeorVerNote.md)
+[**Статьи по теории вероятности**](https://github.com/DenisPanchin/DS/blob/main/TeorVerNote.md)
 
 ## Бизнес-аналитика
 [**Курсы по бизнес-аналитике**](https://github.com/DenisPanchin/DS/blob/main/BisCourse.md)
