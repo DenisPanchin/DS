@@ -10,6 +10,9 @@
 ## &#9000; Algorithms / Алгоритмы
 [Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
 
+## Exploratory Data Analysis (EDA) & Preprocessing / Исследовательских анализ данных и предварительная обработка данных.
+Отличный репозиторий Yimeng Zhang по [feature engineering and feature selection](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)
+
 ## DS
 [**Курсы по ML и DS**](https://github.com/DenisPanchin/DS/blob/main/course.md)
 
