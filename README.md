@@ -6,6 +6,14 @@
 
 ![дорожная карта-изображение](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png )
 
+## Подборка учебных материалов по Data Science и Machine Learning
+### Книги
+* &#128218; [Репозиторий с бесплатными книгами по Data Science LearnDataSci (en)](https://github.com/LearnDataSci/free-data-science-learning/blob/master/free-data-science-books.md)
+* &#128218; [Русский перевод книги Андреаса Мюллера и Сары Гвидо Introduction to ML with Python](https://github.com/Vasily-Sizov/Introduction_to_ML_with_Python_russian_translation)
+&#128218;
+### Блоги
+&#128221; [Список Data science blogs от LearnDataSci](https://github.com/LearnDataSci/data-science-blogs)
+
 ## Mathematics / Математика
 ## &#9000; Algorithms / Алгоритмы
 [Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
