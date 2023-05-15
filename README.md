@@ -10,7 +10,28 @@
 ### Книги
 * &#128218; [Репозиторий с бесплатными книгами по Data Science LearnDataSci (en)](https://github.com/LearnDataSci/free-data-science-learning/blob/master/free-data-science-books.md)
 * &#128218; [Русский перевод книги Андреаса Мюллера и Сары Гвидо Introduction to ML with Python](https://github.com/Vasily-Sizov/Introduction_to_ML_with_Python_russian_translation)
-&#128218;
+### Курсы
+#### Coursera.org
+* &#127891; [Coursera.org (Raiting 4.9): Supervised Machine Learning: Regression and Classification (Stanford, Andrew Ng) (EN)](https://www.coursera.org/learn/machine-learning)
+* &#127891; [Coursera.org (Raiting 4.6): Machine Learning Foundations: A Case Study Approach (University of Washington, Emily Fox) (EN)](https://www.coursera.org/learn/ml-foundations)
+* &#127891; [Coursera.org (Raiting 4.5): Специализация Интеллектуальный анализ данных (Illinois, John C.Hart) (EN)](https://www.coursera.org/specializations/data-mining#courses)
+* &#127891; [Coursera.org (Raiting 4.2): Специализация Наука о больших данных (University of Washington, Bill Howe) (EN)](https://www.coursera.org/specializations/data-science)
+* &#127891; [Coursera.org (Raiting 4.9): Специализация Машинное обучение (Stanford, Andrew Ng) (EN)](https://www.coursera.org/specializations/machine-learning-introduction)
+* &#127891; [Coursera.org (Raiting 4.7): Специализация Машинное обучение (EN)](https://www.coursera.org/specializations/machine-learning)
+
+#### Udacity.com
+* &#127891; [AWS Machine Learning Engineer (EN)](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
+* &#127891; [Become a Data Analyst (EN)](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+* &#127891; [Expand Your Knowledge of Artificial Intelligence (EN)](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
+* &#127891; [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271#)
+
+#### Репозитории с обучающими материалами
+* &#127891; [Репозиторий специализации: Машинное обучение и анализ данных (МФТИ, Yandex Data Factory) (RU)](https://github.com/demidovakatya/mashinnoye-obucheniye)
+* &#127891; [Конспекты лекций, материалы семинаров и домашние задания по курсу "Машинное обучение", проводимому на бакалаврской программе "Прикладная математика и информатика" Факультета компьютерных наук Высшей школы экономики.](https://github.com/esokolov/ml-course-hse)
+* &#127891; [The materials for the course MTH 594 Advanced data mining: theory and applications (by Dmitry Efimov)](https://github.com/diefimov/MTH594_MachineLearning)
+* &#127891; [Курс Александра Дьяконова "Глубокое обучение (Deep Learning)" (ВМК, МГУ имени М.В. Ломоносова)](https://github.com/Dyakonov/DL)
+* &#127891; [курс Александра Дьяконова "Методы машинного обучения" для 3го потока 3го курса ВМК МГУ](https://github.com/Dyakonov/MSUML)
+* &#127891; []()
 ### Блоги
 &#128221; [Список Data science blogs от LearnDataSci](https://github.com/LearnDataSci/data-science-blogs)
 
