@@ -5,9 +5,9 @@
 * [God-Level-Data-Science-ML-Full-Stack (en)](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack)
 
 ## Подборка учебных материалов по Data Science и Machine Learning
-### Книги
-* &#128218; [Репозиторий с бесплатными книгами по Data Science LearnDataSci (en)](https://github.com/LearnDataSci/free-data-science-learning/blob/master/free-data-science-books.md)
-* &#128218; [Русский перевод книги Андреаса Мюллера и Сары Гвидо Introduction to ML with Python](https://github.com/Vasily-Sizov/Introduction_to_ML_with_Python_russian_translation)
+### &#128218; Книги
+* [Репозиторий с бесплатными книгами по Data Science LearnDataSci (en)](https://github.com/LearnDataSci/free-data-science-learning/blob/master/free-data-science-books.md)
+* [Русский перевод книги Андреаса Мюллера и Сары Гвидо Introduction to ML with Python](https://github.com/Vasily-Sizov/Introduction_to_ML_with_Python_russian_translation)
 ### Курсы
 **ODS.ai**
 * &#127891; Открытый курс машинного обучения mlcourse.ai сообщества OpenDataScience. [курс на habr.com (rus)](https://habr.com/ru/companies/ods/articles/322626/), [https://mlcourse.ai/book/index.html](mlcourse.ai (en)), [ods.ai (en)](https://ods.ai/tracks/mlcourse_ai).
