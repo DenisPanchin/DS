@@ -52,7 +52,7 @@ ___
 Всё начинается с данных. Исследовательский анализ данных позволит вам сделать некие начальные выводы, а предварительная обработка данных во многом может повлиять на качество работы моделей машинного обучения.
 ___
 ## Exploratory Data Analysis (EDA) & Preprocessing / Исследовательских анализ данных и предварительная обработка данных.
-Начать можно с [этой темы открытого курса машинного обучения ODS.ai](https://habr.com/ru/companies/ods/articles/322626/).
+Начать можно с [этой темы открытого курса машинного обучения ODS.ai](https://habr.com/ru/companies/ods/articles/322626/) и этого [семинара ПМИ ФКН ВШЭ](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem01-pandas.ipynb).
 Обязательно посмотрите отличный репозиторий Yimeng Zhang по [feature engineering and feature selection](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection) &#128077;
 
 ## DS
