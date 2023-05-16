@@ -37,17 +37,23 @@ ___
 ___
 ## Mathematics / Математика
 * &#128208; [Конспекты Yandex & MIPT](https://drive.google.com/file/d/1Gy4HiLDDkhJ0Ytd9dX4N4BKNnZ0Pjnxc/view?usp=sharing)
-### Математический анализ
-### Линейная алгебра
-### Оптимизация
-### Теория вероятности и статистика
-* &#127922; [Мой репозиторий по статистике](https://github.com/DenisPanchin/statistics) 
-* &#127922; [Habr.com: Теория вероятностей в машинном обучении. Часть 1: модель регрессии](https://habr.com/ru/company/ods/blog/713920/)
+**Математический анализ**
+
+**Линейная алгебра**
+
+**Оптимизация**
+
+**&#127922; Теория вероятности и статистика**
+* [Мой репозиторий по статистике](https://github.com/DenisPanchin/statistics) 
+* [Habr.com: Теория вероятностей в машинном обучении. Часть 1: модель регрессии](https://habr.com/ru/company/ods/blog/713920/)
 ## &#9000; Algorithms / Алгоритмы
 [Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
-
+___
+Всё начинается с данных. Исследовательский анализ данных позволит вам сделать некие начальные выводы, а предварительная обработка данных во многом может повлиять на качество работы моделей машинного обучения.
+___
 ## Exploratory Data Analysis (EDA) & Preprocessing / Исследовательских анализ данных и предварительная обработка данных.
-Отличный репозиторий Yimeng Zhang по [feature engineering and feature selection](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)
+Начать можно с [этой темы открытого курса машинного обучения ODS.ai](https://habr.com/ru/companies/ods/articles/322626/).
+Обязательно посмотрите отличный репозиторий Yimeng Zhang по [feature engineering and feature selection](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection) &#128077;
 
 ## DS
 [**Курсы по ML и DS**](https://github.com/DenisPanchin/DS/blob/main/course.md)
