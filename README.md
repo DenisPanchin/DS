@@ -38,6 +38,13 @@
 &#128221; [Список Data science blogs от LearnDataSci](https://github.com/LearnDataSci/data-science-blogs)
 
 ## Mathematics / Математика
+* &#128208; [Конспекты Yandex & MIPT](https://drive.google.com/file/d/1Gy4HiLDDkhJ0Ytd9dX4N4BKNnZ0Pjnxc/view?usp=sharing)
+### Математический анализ
+### Линейная алгебра
+### Оптимизация
+### Теория вероятности и статистика
+* &#127922; [Мой репозиторий по статистике](https://github.com/DenisPanchin/statistics) 
+* &#127922; [Habr.com: Теория вероятностей в машинном обучении. Часть 1: модель регрессии](https://habr.com/ru/company/ods/blog/713920/)
 ## &#9000; Algorithms / Алгоритмы
 [Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
 
