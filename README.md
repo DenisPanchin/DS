@@ -1,8 +1,8 @@
 # &#128640; Roadmap Data Science
-* [&#129517; Roadmap Data Science CIS Team (en)](https://github.com/CIS-Team/Data-Science-Roadmap-2023)
-* [&#129517; Roadmap Data Science Emeric DYNOMANT (en)](https://github.com/MrMimic/data-scientist-roadmap)
-* [&#129517; 6 Months Data Science Roadmap in 2023 (en)](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-)
-* [&#129517; God-Level-Data-Science-ML-Full-Stack (en)](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack)
+* [Roadmap Data Science CIS Team (en)](https://github.com/CIS-Team/Data-Science-Roadmap-2023)
+* [Roadmap Data Science Emeric DYNOMANT (en)](https://github.com/MrMimic/data-scientist-roadmap)
+* [6 Months Data Science Roadmap in 2023 (en)](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-)
+* [God-Level-Data-Science-ML-Full-Stack (en)](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack)
 
 ## Подборка учебных материалов по Data Science и Machine Learning
 ### Книги
