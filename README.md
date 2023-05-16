@@ -11,6 +11,8 @@
 * &#128218; [Репозиторий с бесплатными книгами по Data Science LearnDataSci (en)](https://github.com/LearnDataSci/free-data-science-learning/blob/master/free-data-science-books.md)
 * &#128218; [Русский перевод книги Андреаса Мюллера и Сары Гвидо Introduction to ML with Python](https://github.com/Vasily-Sizov/Introduction_to_ML_with_Python_russian_translation)
 ### Курсы
+### ODS.ai
+* &#127891; Открытый курс машинного обучения mlcourse.ai сообщества OpenDataScience. [курс на habr.com (rus)](https://habr.com/ru/companies/ods/articles/322626/), [https://mlcourse.ai/book/index.html](mlcourse.ai (en)), [ods.ai (en)](https://ods.ai/tracks/mlcourse_ai).
 #### Coursera.org
 * &#127891; [Coursera.org (Raiting 4.9): Supervised Machine Learning: Regression and Classification (Stanford, Andrew Ng) (EN)](https://www.coursera.org/learn/machine-learning)
 * &#127891; [Coursera.org (Raiting 4.6): Machine Learning Foundations: A Case Study Approach (University of Washington, Emily Fox) (EN)](https://www.coursera.org/learn/ml-foundations)
