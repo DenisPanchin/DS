@@ -34,7 +34,9 @@
 * &#127891; []()
 ### Блоги
 &#128221; [Список Data science blogs от LearnDataSci](https://github.com/LearnDataSci/data-science-blogs)
-
+---
+Для успешного прохождения обучения и более глубокого понимания материала желательно освежить в памяти математику.
+---
 ## Mathematics / Математика
 * &#128208; [Конспекты Yandex & MIPT](https://drive.google.com/file/d/1Gy4HiLDDkhJ0Ytd9dX4N4BKNnZ0Pjnxc/view?usp=sharing)
 ### Математический анализ
