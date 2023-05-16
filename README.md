@@ -4,8 +4,6 @@
 * [&#129517; 6 Months Data Science Roadmap in 2023 (en)](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-)
 * [&#129517; God-Level-Data-Science-ML-Full-Stack (en)](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack)
 
-![дорожная карта-изображение](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png )
-
 ## Подборка учебных материалов по Data Science и Machine Learning
 ### Книги
 * &#128218; [Репозиторий с бесплатными книгами по Data Science LearnDataSci (en)](https://github.com/LearnDataSci/free-data-science-learning/blob/master/free-data-science-books.md)
