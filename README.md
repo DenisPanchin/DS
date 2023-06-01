@@ -80,7 +80,15 @@ ___
 
 ## &#128172; Natural Language Processing (NLP)
 * Елена Войта, автор и лектор ШАД [NLP Course | For you](https://lena-voita.github.io/nlp_course.html). [Репозиторий курса](https://github.com/yandexdataschool/nlp_course/tree/2022) 
-* 
+* [Coursera’s Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
+* [Udemy’s NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)
+* [Stanford’s Natural Language Processing with Deep Learning](https://online.stanford.edu/courses/xcs224n-natural-language-processing-deep-learning)
+* [Udacity’s Master Natural Language Processing](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
+* [SpaCy’s Advanced NLP](https://course.spacy.io/en/)
+* [Edureka’s NLP Certification Training With Python](https://www.edureka.co/advanced-artificial-intelligence-course-python)
+* [DeepLearning.AI’s TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+* [DataCamp’s Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
+* [Codecademy’s Learn How to Get Started With Natural Language Processing](https://www.codecademy.com/learn/natural-language-processing)
 
 ## Подготовка к собеседованию
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
