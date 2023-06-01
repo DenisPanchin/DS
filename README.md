@@ -25,6 +25,7 @@
 
 **Репозитории с обучающими материалами**
 * [Репозиторий специализации: Машинное обучение и анализ данных (МФТИ, Yandex Data Factory) (RU)](https://github.com/demidovakatya/mashinnoye-obucheniye)
+* [Репозиторий Yandex School of Data Analysis](https://github.com/yandexdataschool)
 * [Конспекты лекций, материалы семинаров и домашние задания по курсу "Машинное обучение", проводимому на бакалаврской программе "Прикладная математика и информатика" Факультета компьютерных наук Высшей школы экономики.](https://github.com/esokolov/ml-course-hse)
 * [The materials for the course MTH 594 Advanced data mining: theory and applications (by Dmitry Efimov)](https://github.com/diefimov/MTH594_MachineLearning)
 * [Курс Александра Дьяконова "Глубокое обучение (Deep Learning)" (ВМК, МГУ имени М.В. Ломоносова)](https://github.com/Dyakonov/DL)
@@ -77,7 +78,9 @@ ___
 ## Рекомендательные системы
 [**Курсы по рекомендательным системам**](https://github.com/DenisPanchin/DS/blob/main/Recom.md)
 
-Курсы и специализации на Coursera.org
+## &#128172; Natural Language Processing (NLP)
+* Елена Войта, автор и лектор ШАД [NLP Course | For you](https://lena-voita.github.io/nlp_course.html). [Репозиторий курса](https://github.com/yandexdataschool/nlp_course/tree/2022) 
+* 
 
 ## Подготовка к собеседованию
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
