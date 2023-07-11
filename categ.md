@@ -1,4 +1,5 @@
 # Работа с категориальными признаками
+![encoding_categorical_features](/images/encoding_categorical_features.jpg)
 ## sklearn.preprocessing.OrdinalEncoder()
 Предназначен для преобразования признаков
 
