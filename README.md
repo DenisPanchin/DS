@@ -119,7 +119,7 @@ ___
 * [Шаблон ML System Design документа](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/tree/main)
 * [ML System Design - ML System Design Doc. Лекция-бонус от Reliable ML](https://youtu.be/PW9TGNr1Vqk?si=NXwnmYbzyglLF7HB)
 * [Трек ods.ai ML System Design Course](https://ods.ai/)
-* [Руководство Google Rules of Machine Learning: Best Practices for ML Engineering] ([ML_Design](https://github.com/DenisPanchin/DS/tree/main/ML_Design/rules_of_ml.pdf)
+* [Руководство Google Rules of Machine Learning: Best Practices for ML Engineering](https://github.com/DenisPanchin/DS/tree/main/ML_Design/rules_of_ml.pdf)
 
 ## Подготовка к собеседованию
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
