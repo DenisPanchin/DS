@@ -114,5 +114,11 @@ ___
 * [Курсы Hugging Face](https://huggingface.co/learn)
 * [Курсы Deeplearning.ai](https://www.deeplearning.ai/short-courses/)
 
+## ML Design
+* [Лекция ML System Design Doc от Reliable ML. AI Talent Hub в ИТМО ai.itmo.ru, 27.04.2023](https://youtu.be/HmdKhI2_6Os?si=KLCVjCI-1Myk7rsN)
+* [Шаблон ML System Design документа](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/tree/main)
+* [ML System Design - ML System Design Doc. Лекция-бонус от Reliable ML](https://youtu.be/PW9TGNr1Vqk?si=NXwnmYbzyglLF7HB)
+* [Трек ods.ai ML System Design Course](https://ods.ai/)
+
 ## Подготовка к собеседованию
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
