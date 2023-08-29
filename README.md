@@ -47,7 +47,10 @@ ___
 **&#127922; Теория вероятности и статистика**
 * [Мой репозиторий по статистике](https://github.com/DenisPanchin/statistics) 
 * [Habr.com: Теория вероятностей в машинном обучении. Часть 1: модель регрессии](https://habr.com/ru/company/ods/blog/713920/)
-## &#9000; Algorithms / Алгоритмы
+## &#9000; Algorithms / Алгоритмы / Python
+
+[Видеокурс Яндекса по промышленной разработке на Python](https://habr.com/ru/companies/yandex/articles/498856/)
+
 [Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
 
 Также посмотри [репозиторий yakimka](https://github.com/yakimka/python_interview_questions) в котором собраны вопросы и ответы для интервью по Python.
