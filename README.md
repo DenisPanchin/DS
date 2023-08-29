@@ -108,5 +108,11 @@ ___
 * [DataCamp’s Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
 * [Codecademy’s Learn How to Get Started With Natural Language Processing](https://www.codecademy.com/learn/natural-language-processing)
 
+## Deep Learning
+
+* [Tutorial PyTorch](https://pytorch.org/tutorials/)
+* [Курсы Hugging Face](https://huggingface.co/learn)
+* [Курсы Deeplearning.ai](https://www.deeplearning.ai/short-courses/)
+
 ## Подготовка к собеседованию
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
