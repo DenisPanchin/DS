@@ -121,5 +121,8 @@ ___
 * [Трек ods.ai ML System Design Course](https://ods.ai/)
 * [Руководство Google Rules of Machine Learning: Best Practices for ML Engineering](https://github.com/DenisPanchin/DS/tree/main/ML_Design/rules_of_ml.pdf)
 
+  ## SQL
+  * [Большая практическая шпаргалка SQL (SQLite) с готовыми запросами](https://habr.com/ru/articles/792630/)
+
 ## Подготовка к собеседованию
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
