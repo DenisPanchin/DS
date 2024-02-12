@@ -31,6 +31,8 @@
 * [Курс Александра Дьяконова "Глубокое обучение (Deep Learning)" (ВМК, МГУ имени М.В. Ломоносова)](https://github.com/Dyakonov/DL)
 * [курс Александра Дьяконова "Методы машинного обучения" для 3го потока 3го курса ВМК МГУ](https://github.com/Dyakonov/MSUML)
 
+[Полезные ресурсы для Python-разработчиков](https://habr.com/ru/articles/792746/) 
+
 **Блоги**
 [Список Data science blogs от LearnDataSci](https://github.com/LearnDataSci/data-science-blogs)
 ___
@@ -122,7 +124,7 @@ ___
 * [Руководство Google Rules of Machine Learning: Best Practices for ML Engineering](https://github.com/DenisPanchin/DS/tree/main/ML_Design/rules_of_ml.pdf)
 
   ## SQL
-  * [Большая практическая шпаргалка SQL (SQLite) с готовыми запросами](https://habr.com/ru/articles/792630/)
+* [Большая практическая шпаргалка SQL (SQLite) с готовыми запросами](https://habr.com/ru/articles/792630/)
 
 ## Подготовка к собеседованию
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
