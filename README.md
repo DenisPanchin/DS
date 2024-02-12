@@ -96,7 +96,8 @@ ___
 [**Курсы по бизнес-аналитике**](https://github.com/DenisPanchin/DS/blob/main/BisCourse.md)
 
 ## Рекомендательные системы
-[**Курсы по рекомендательным системам**](https://github.com/DenisPanchin/DS/blob/main/Recom.md)
+* [**Курсы по рекомендательным системам**](https://github.com/DenisPanchin/DS/blob/main/Recom.md)
+* [**Шпаргалка по рекомендательным системам**](https://habr.com/ru/articles/792994/)
 
 ## &#128172; Natural Language Processing (NLP)
 * Елена Войта, автор и лектор ШАД [NLP Course | For you](https://lena-voita.github.io/nlp_course.html). [Репозиторий курса](https://github.com/yandexdataschool/nlp_course/tree/2022) 
