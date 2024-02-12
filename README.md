@@ -99,6 +99,9 @@ ___
 * [**Курсы по рекомендательным системам**](https://github.com/DenisPanchin/DS/blob/main/Recom.md)
 * [**Шпаргалка по рекомендательным системам**](https://habr.com/ru/articles/792994/)
 
+## Временные ряды
+* [Merlion Framework](https://habr.com/ru/companies/sportmaster_lab/articles/792318/)
+
 ## &#128172; Natural Language Processing (NLP)
 * Елена Войта, автор и лектор ШАД [NLP Course | For you](https://lena-voita.github.io/nlp_course.html). [Репозиторий курса](https://github.com/yandexdataschool/nlp_course/tree/2022) 
 * [Coursera’s Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
