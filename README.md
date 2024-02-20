@@ -51,9 +51,9 @@ ___
 * [Habr.com: Теория вероятностей в машинном обучении. Часть 1: модель регрессии](https://habr.com/ru/company/ods/blog/713920/)
 ## &#9000; Algorithms / Алгоритмы / Python / Linux / GIT
 
-[Видеокурс Яндекса по промышленной разработке на Python](https://habr.com/ru/companies/yandex/articles/498856/)
-
-[Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
+* [Видеокурс Яндекса по промышленной разработке на Python](https://habr.com/ru/companies/yandex/articles/498856/)
+* [Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
+* [Хорошая статья про алгоритмы](https://habr.com/ru/articles/794556/)
 
 Также посмотри [репозиторий yakimka](https://github.com/yakimka/python_interview_questions) в котором собраны вопросы и ответы для интервью по Python.
 
@@ -129,6 +129,7 @@ ___
 
   ## SQL
 * [Большая практическая шпаргалка SQL (SQLite) с готовыми запросами](https://habr.com/ru/articles/792630/)
+* [И ещё одна большая шпаргалка по SQL для собесов](https://habr.com/ru/articles/794604/)
 
 ## Подготовка к собеседованию
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
