@@ -53,7 +53,7 @@ ___
 
 * [Видеокурс Яндекса по промышленной разработке на Python](https://habr.com/ru/companies/yandex/articles/498856/)
 * [Алгоритмы в Python](https://github.com/DenisPanchin/Algoritms)
-* [Хорошая статья про алгоритмы](https://habr.com/ru/articles/794556/)
+* Хорошая статья про алгоритмы: [Часть 1](https://habr.com/ru/articles/794556/), [Часть 2](https://habr.com/ru/articles/797837/)
 
 Также посмотри [репозиторий yakimka](https://github.com/yakimka/python_interview_questions) в котором собраны вопросы и ответы для интервью по Python.
 
