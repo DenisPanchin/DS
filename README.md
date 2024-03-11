@@ -85,12 +85,42 @@ ___
 регрессия и линейные SVM.
 Непараметрические модели - это модели с неограниченным числом параметров, обеспечивающие большую гибкость. Чтобы спрогнозировать новые данные, вам необходимо знать параметры модели и состояние наблюдаемых данных. Примеры: decision trees, k-nearest neighbors и тематические модели использующие latent Dirichlet analysis.
 
+#### Кластеризация
+[Habr.com: Кластеризация в ML: от теоретических основ популярных алгоритмов к их реализации с нуля на Python](https://habr.com/ru/articles/798331/)
+[Habr.com: Nearest-Neighbors](https://habr.com/ru/articles/799009/)
+
+#### Метод главных компонент (PCA)
+[Habr.com: Метод главных компонент (PCA). Принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/799001/)
 
 
 ## Математика
 [**Курсы по математике**](https://github.com/DenisPanchin/DS/blob/main/MathCourse.md)
 ### &#127922;  Теория вероятности
 [**Статьи по теории вероятности**](https://github.com/DenisPanchin/DS/blob/main/TeorVerNote.md)
+
+комбинаторика,
+
+дискретная вероятность,
+
+условные вероятности,
+
+формула полной вероятности,
+
+теорема Байеса,
+
+понятие случайной величины,
+
+математическое ожидание и дисперсия,
+
+основные распределения случайных величин,
+
+закон больших чисел,
+
+центральная предельная теорема,
+
+точечное и интервальное оценивание,
+
+доверительные интервалы.
 
 ## Бизнес-аналитика
 [**Курсы по бизнес-аналитике**](https://github.com/DenisPanchin/DS/blob/main/BisCourse.md)
@@ -126,6 +156,14 @@ ___
 * [ML System Design - ML System Design Doc. Лекция-бонус от Reliable ML](https://youtu.be/PW9TGNr1Vqk?si=NXwnmYbzyglLF7HB)
 * [Трек ods.ai ML System Design Course](https://ods.ai/)
 * [Руководство Google Rules of Machine Learning: Best Practices for ML Engineering](https://github.com/DenisPanchin/DS/tree/main/ML_Design/rules_of_ml.pdf)
+* [Как развернуть виртуальную среду модели машинного обучения на любой машине?](https://habr.com/ru/articles/798019/)
+
+
+* [Цена качества модели: как метрики качества модели машинного обучения влияют на финансовый результат](https://habr.com/ru/articles/798077/)
+* [Методы очистки данных в Pandas](https://habr.com/ru/companies/otus/articles/797283/)
+* [Азы больших языковых моделей и трансформеров: декодер](https://habr.com/ru/companies/wunderfund/articles/797875/)
+* [Улучшаем свой код на Python](https://habr.com/ru/articles/797393/)
+
 
   ## SQL
 * [Большая практическая шпаргалка SQL (SQLite) с готовыми запросами](https://habr.com/ru/articles/792630/)
