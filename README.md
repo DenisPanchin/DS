@@ -92,6 +92,12 @@ ___
 #### Метод главных компонент (PCA)
 [Habr.com: Метод главных компонент (PCA). Принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/799001/)
 
+#### Boosting
+[Habr.com: Градиентный бустинг. Реализация с нуля на Python и разбор особенностей его модификаций (XGBoost, CatBoost, LightGBM)](https://habr.com/ru/articles/799725/)
+
+#### Ансамбли
+[Habr.com: Стекинг и блендинг в ML. Ключевые особенности и реализация с нуля на Python](https://habr.com/ru/articles/799483/)
+
 
 ## Математика
 [**Курсы по математике**](https://github.com/DenisPanchin/DS/blob/main/MathCourse.md)
