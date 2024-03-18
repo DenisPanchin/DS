@@ -165,6 +165,7 @@ ___
 * [Руководство Google Rules of Machine Learning: Best Practices for ML Engineering](https://github.com/DenisPanchin/DS/tree/main/ML_Design/rules_of_ml.pdf)
 * [Как развернуть виртуальную среду модели машинного обучения на любой машине?](https://habr.com/ru/articles/798019/)
 
+* [жизненный цикл ML-сервиса от идеи до разработки и внедрения](https://habr.com/ru/articles/795985/)
 
 * [Цена качества модели: как метрики качества модели машинного обучения влияют на финансовый результат](https://habr.com/ru/articles/798077/)
 * [Методы очистки данных в Pandas](https://habr.com/ru/companies/otus/articles/797283/)
