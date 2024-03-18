@@ -93,7 +93,8 @@ ___
 [Habr.com: Метод главных компонент (PCA). Принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/799001/)
 
 #### Boosting
-[Habr.com: Градиентный бустинг. Реализация с нуля на Python и разбор особенностей его модификаций (XGBoost, CatBoost, LightGBM)](https://habr.com/ru/articles/799725/)
+* [Habr.com: Градиентный бустинг. Реализация с нуля на Python и разбор особенностей его модификаций (XGBoost, CatBoost, LightGBM)](https://habr.com/ru/articles/799725/)
+* [Habr.com: Алгоритмы AdaBoost (SAMME & R2). Принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/800499/)
 
 #### Ансамбли
 [Habr.com: Стекинг и блендинг в ML. Ключевые особенности и реализация с нуля на Python](https://habr.com/ru/articles/799483/)
