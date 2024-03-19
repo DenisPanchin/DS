@@ -65,6 +65,7 @@ ___
 ## Exploratory Data Analysis (EDA) & Preprocessing / Исследовательских анализ данных и предварительная обработка данных.
 Начать можно с [этой темы открытого курса машинного обучения ODS.ai](https://habr.com/ru/companies/ods/articles/322626/) и этого [семинара ПМИ ФКН ВШЭ](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem01-pandas.ipynb).
 Обязательно посмотрите отличный репозиторий Yimeng Zhang по [feature engineering and feature selection](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection) &#128077;
+[https://habr.com/ru/articles/800973/](https://habr.com/ru/articles/800973/)
 
 ## DS
 [**Курсы по ML и DS**](https://github.com/DenisPanchin/DS/blob/main/course.md)
@@ -181,3 +182,5 @@ ___
 
 ## Подготовка к собеседованию
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
+
+Habr.com: Материалы для подготовки к собеседованию на позицию Data Scientist [Часть 1](https://habr.com/ru/companies/megafon/articles/795261/), [Часть 2](https://habr.com/ru/companies/megafon/articles/800919/)
