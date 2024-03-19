@@ -129,6 +129,8 @@ ___
 
 доверительные интервалы.
 
+[Habr.com: Основные типы распределений вероятностей в примерах](https://habr.com/ru/articles/801101/)
+
 ## Бизнес-аналитика
 [**Курсы по бизнес-аналитике**](https://github.com/DenisPanchin/DS/blob/main/BisCourse.md)
 
