@@ -89,6 +89,7 @@ ___
 #### Кластеризация
 [Habr.com: Кластеризация в ML: от теоретических основ популярных алгоритмов к их реализации с нуля на Python](https://habr.com/ru/articles/798331/)
 [Habr.com: Nearest-Neighbors](https://habr.com/ru/articles/799009/)
+[Habrcom: Метод K-ближайших соседей (KNN). Принцип работы, разновидности и реализация с нуля на Python](https://habr.com/ru/articles/801885/)
 
 #### Метод главных компонент (PCA)
 [Habr.com: Метод главных компонент (PCA). Принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/799001/)
@@ -96,9 +97,13 @@ ___
 #### Boosting
 * [Habr.com: Градиентный бустинг. Реализация с нуля на Python и разбор особенностей его модификаций (XGBoost, CatBoost, LightGBM)](https://habr.com/ru/articles/799725/)
 * [Habr.com: Алгоритмы AdaBoost (SAMME & R2). Принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/800499/)
-
+  
 #### Ансамбли
 [Habr.com: Стекинг и блендинг в ML. Ключевые особенности и реализация с нуля на Python](https://habr.com/ru/articles/799483/)
+[Habr.com: Бэггинг и случайный лес. Ключевые особенности и реализация с нуля на Python](https://habr.com/ru/articles/801161/)
+[Дерево решений (CART). От теоретических основ до продвинутых техник и реализации с нуля на Python](https://habr.com/ru/articles/801515/)
+
+
 
 
 ## Математика
@@ -141,6 +146,7 @@ ___
 
 ## Временные ряды
 * [Merlion Framework](https://habr.com/ru/companies/sportmaster_lab/articles/792318/)
+* [FinRL: Библиотека глубокого обучения с подкреплением для автоматизированной торговли акциями](https://habr.com/ru/companies/otus/articles/800799/)
 
 ## &#128172; Natural Language Processing (NLP)
 * Елена Войта, автор и лектор ШАД [NLP Course | For you](https://lena-voita.github.io/nlp_course.html). [Репозиторий курса](https://github.com/yandexdataschool/nlp_course/tree/2022) 
@@ -153,6 +159,8 @@ ___
 * [DeepLearning.AI’s TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 * [DataCamp’s Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
 * [Codecademy’s Learn How to Get Started With Natural Language Processing](https://www.codecademy.com/learn/natural-language-processing)
+
+* [Habr.com](Общее описание и реализация Word2Vec с помощью PyTorch)
 
 ## Deep Learning
 
@@ -174,6 +182,7 @@ ___
 * [Методы очистки данных в Pandas](https://habr.com/ru/companies/otus/articles/797283/)
 * [Азы больших языковых моделей и трансформеров: декодер](https://habr.com/ru/companies/wunderfund/articles/797875/)
 * [Улучшаем свой код на Python](https://habr.com/ru/articles/797393/)
+* Замыкания и декораторы в Python: [часть 1](https://habr.com/ru/articles/781866/), [часть 2](https://habr.com/ru/articles/800239/)
 
 
   ## SQL
@@ -184,3 +193,6 @@ ___
 [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
 
 Habr.com: Материалы для подготовки к собеседованию на позицию Data Scientist [Часть 1](https://habr.com/ru/companies/megafon/articles/795261/), [Часть 2](https://habr.com/ru/companies/megafon/articles/800919/)
+
+## Docker
+[Большая шпаргалка по Docker: как распилить монолитный проект на части](https://habr.com/ru/companies/kokocgroup/articles/802039/)
