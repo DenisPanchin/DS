@@ -16,6 +16,7 @@
 * [Специализация Наука о больших данных (University of Washington, Bill Howe) (EN)](https://www.coursera.org/specializations/data-science)
 * [Специализация Машинное обучение (Stanford, Andrew Ng) (EN)](https://www.coursera.org/specializations/machine-learning-introduction)
 * [Специализация Машинное обучение (EN)](https://www.coursera.org/specializations/machine-learning)
+* [Бесплатные курсы и ресурсы для изучения машинного обучения](https://habr.com/ru/articles/804251/)
 
 **Udacity.com**
 * [AWS Machine Learning Engineer (EN)](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
@@ -86,6 +87,7 @@ ___
 регрессия и линейные SVM.
 Непараметрические модели - это модели с неограниченным числом параметров, обеспечивающие большую гибкость. Чтобы спрогнозировать новые данные, вам необходимо знать параметры модели и состояние наблюдаемых данных. Примеры: decision trees, k-nearest neighbors и тематические модели использующие latent Dirichlet analysis.
 
+* [Habr.com: https://devpractice.ru/matplotlib-lesson-3-1-work-with-legend/](https://habr.com/ru/articles/804605/)
 * [Habr.com: Метод опорных векторов (SVM). Подходы, принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/802185/)
 * [Habr.com: Наивный байесовский классификатор. Основная идея, модификации и реализация с нуля на Python](https://habr.com/ru/articles/802435/)
 * [Habr.com: Линейный дискриминантный анализ (LDA). Принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/802511/)
