@@ -142,7 +142,9 @@ ___
 
 доверительные интервалы.
 
-[Habr.com: Основные типы распределений вероятностей в примерах](https://habr.com/ru/articles/801101/)
+* [Habr.com: Основные типы распределений вероятностей в примерах](https://habr.com/ru/articles/801101/)
+* [Habr.com: T-тест на зависимых выборках](https://habr.com/ru/companies/X5Tech/articles/807001/)
+* [Habr.com: Индуктивная статистика: доверительные интервалы, предельные ошибки, размер выборки и проверка гипотез](https://habr.com/ru/articles/807051/)
 
 ## Бизнес-аналитика
 [**Курсы по бизнес-аналитике**](https://github.com/DenisPanchin/DS/blob/main/BisCourse.md)
