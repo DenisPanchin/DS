@@ -171,8 +171,9 @@ ___
 * [DeepLearning.AI’s TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 * [DataCamp’s Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
 * [Codecademy’s Learn How to Get Started With Natural Language Processing](https://www.codecademy.com/learn/natural-language-processing)
-
-* [Habr.com](Общее описание и реализация Word2Vec с помощью PyTorch)
+* [Habr.com: Общее описание и реализация Word2Vec с помощью PyTorch](https://habr.com/ru/articles/801807/)
+* [Habr.com: Пять лучших NLP инструментов для работы с русским языком на Python (Natasha, DeepPavlov, mystem и pymorphy2, RuBERT)](https://habr.com/ru/companies/otus/articles/808435/)
+* [Habr.com: Как учить большие языковые модели (теоретический туториал)](https://habr.com/ru/articles/809037/)
 
 ## Deep Learning
 
@@ -202,7 +203,8 @@ ___
 * [И ещё одна большая шпаргалка по SQL для собесов](https://habr.com/ru/articles/794604/)
 
 ## Подготовка к собеседованию
-[**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
+* [**Подготовка к собеседованию**](https://github.com/DenisPanchin/DS/blob/main/ML_Interview.md)
+* Материалы для подготовки к собеседованию на позицию Data Scientist [Live Coding](https://habr.com/ru/companies/megafon/articles/795261/), [Классическое машинное обучение](https://habr.com/ru/companies/megafon/articles/800919/), [Специализированное машинное/глубокое обучение](https://habr.com/ru/companies/megafon/articles/808585/)
 
 Habr.com: Материалы для подготовки к собеседованию на позицию Data Scientist [Часть 1](https://habr.com/ru/companies/megafon/articles/795261/), [Часть 2](https://habr.com/ru/companies/megafon/articles/800919/)
 
