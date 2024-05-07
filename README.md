@@ -100,7 +100,8 @@ ___
 [Habrcom: Метод K-ближайших соседей (KNN). Принцип работы, разновидности и реализация с нуля на Python](https://habr.com/ru/articles/801885/)
 
 #### Метод главных компонент (PCA)
-[Habr.com: Метод главных компонент (PCA). Принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/799001/)
+* [Habr.com: Метод главных компонент (PCA). Принцип работы и реализация с нуля на Python](https://habr.com/ru/articles/799001/)
+* [Habr.com: Главные отличия PCA от UMAP и t-SNE](https://habr.com/ru/articles/811437/)
 
 #### Boosting
 * [Habr.com: Градиентный бустинг. Реализация с нуля на Python и разбор особенностей его модификаций (XGBoost, CatBoost, LightGBM)](https://habr.com/ru/articles/799725/)
